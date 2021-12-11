@@ -1,0 +1,10 @@
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/ExeVirus/moreblocks
+[submodule "mods/lady_assets"]
+	path = mods/lady_assets
+	url = git@github.com:ExeVirus/lady_assets.git
+[submodule "mods/autobox"]
+	path = mods/autobox
+	url = git@github.com:ExeVirus/autobox.git
+	branch = lady
