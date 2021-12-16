@@ -8,3 +8,9 @@
 	path = mods/autobox
 	url = git@github.com:ExeVirus/autobox.git
 	branch = lady
+[submodule "mods/ll_runtime"]
+	path = mods/ll_runtime
+	url = git@github.com:ExeVirus/ll_runtime.git
+[submodule "mods/markdown2formspec"]
+	path = mods/markdown2formspec
+	url = git@github.com:ExeVirus/markdown2formspec.git
