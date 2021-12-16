@@ -1,5 +1,5 @@
 # LittleLady
 
-![LittleLady Screenshot](menu/background.jpg)
+![LittleLady Screenshot](screenshot.jpg)
 
 A Little Ladybug in a Big World
