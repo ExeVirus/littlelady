@@ -14,3 +14,6 @@
 [submodule "mods/markdown2formspec"]
 	path = mods/markdown2formspec
 	url = git@github.com:ExeVirus/markdown2formspec.git
+[submodule "mods/classic_levels"]
+	path = mods/classic_levels
+	url = git@github.com:ExeVirus/classic_levels.git
