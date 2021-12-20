@@ -17,3 +17,7 @@
 [submodule "mods/classic_levels"]
 	path = mods/classic_levels
 	url = git@github.com:ExeVirus/classic_levels.git
+[submodule "mods/rocks"]
+	path = mods/rocks
+	url = git@github.com:ExeVirus/rocks.git
+	branch = little_lady
