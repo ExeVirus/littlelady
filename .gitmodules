@@ -1,6 +1,6 @@
 [submodule "mods/moreblocks"]
 	path = mods/moreblocks
-	url = https://github.com/ExeVirus/moreblocks
+	url = https://github.com/minetest-mods/moreblocks/
 [submodule "mods/lady_assets"]
 	path = mods/lady_assets
 	url = https://github.com/ExeVirus/lady_assets.git
