@@ -2,7 +2,6 @@ The following files:
 
 + menu/background.png
 + menu/icon.png
-+ menu/theme.ogg
 + .gitmodules
 + game.conf
 + License.txt
@@ -33,3 +32,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--------------------------------------
+
+menu/theme.ogg is Licensed under CC-BY-SA 4.0 2021 ExeVirus: https://creativecommons.org/licenses/by-sa/4.0/
