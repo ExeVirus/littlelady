@@ -3,21 +3,21 @@
 	url = https://github.com/ExeVirus/moreblocks
 [submodule "mods/lady_assets"]
 	path = mods/lady_assets
-	url = git@github.com:ExeVirus/lady_assets.git
+	url = https://github.com/ExeVirus/lady_assets.git
 [submodule "mods/autobox"]
 	path = mods/autobox
-	url = git@github.com:ExeVirus/autobox.git
+	url = https://github.com/ExeVirus/autobox.git
 	branch = lady
 [submodule "mods/ll_runtime"]
 	path = mods/ll_runtime
-	url = git@github.com:ExeVirus/ll_runtime.git
+	url = https://github.com/ExeVirus/ll_runtime.git
 [submodule "mods/markdown2formspec"]
 	path = mods/markdown2formspec
-	url = git@github.com:ExeVirus/markdown2formspec.git
+	url = https://github.com/ExeVirus/markdown2formspec.git
 [submodule "mods/classic_levels"]
 	path = mods/classic_levels
-	url = git@github.com:ExeVirus/classic_levels.git
+	url = https://github.com/ExeVirus/classic_levels.git
 [submodule "mods/rocks"]
 	path = mods/rocks
-	url = git@github.com:ExeVirus/rocks.git
+	url = https://github.com/ExeVirus/rocks.git
 	branch = little_lady
