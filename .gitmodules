@@ -1,23 +1,6 @@
 [submodule "mods/moreblocks"]
 	path = mods/moreblocks
 	url = https://github.com/minetest-mods/moreblocks/
-[submodule "mods/lady_assets"]
-	path = mods/lady_assets
-	url = https://github.com/ExeVirus/lady_assets.git
-[submodule "mods/autobox"]
-	path = mods/autobox
-	url = https://github.com/ExeVirus/autobox.git
-	branch = lady
-[submodule "mods/ll_runtime"]
-	path = mods/ll_runtime
-	url = https://github.com/ExeVirus/ll_runtime.git
 [submodule "mods/markdown2formspec"]
 	path = mods/markdown2formspec
 	url = https://github.com/ExeVirus/markdown2formspec.git
-[submodule "mods/classic_levels"]
-	path = mods/classic_levels
-	url = https://github.com/ExeVirus/classic_levels.git
-[submodule "mods/rocks"]
-	path = mods/rocks
-	url = https://github.com/ExeVirus/rocks.git
-	branch = little_lady
