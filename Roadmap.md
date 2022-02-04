@@ -30,7 +30,7 @@ Just be aware that the order with which PR's and other requests are dealt with a
 ## Phase 2 - Features and Multiplayer Co-op
 #### Status: **Ideation/Planning**
 ### Goals:
-- Multiplayer co-op really is quite easy to pull off with little lady, only a few tweas are needed:
+- Multiplayer co-op really is quite easy to pull off with little lady, only a few tweaks are needed:
     - Make globalstep star captures relavant for all connected players
     - Allow the first connection to be the level selector, and if they leave, the next in line, and so on.
     - Allow the current level selector to defer selection to the next in line
