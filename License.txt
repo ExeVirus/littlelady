@@ -36,3 +36,5 @@ SOFTWARE.
 --------------------------------------
 
 menu/theme.ogg is Licensed under CC-BY-SA 4.0 2021 ExeVirus: https://creativecommons.org/licenses/by-sa/4.0/
+
+See respective mod folder for each individual sub-mod's license.
